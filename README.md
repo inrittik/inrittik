@@ -1,6 +1,6 @@
  # Hi, I’m Nrittik!
  
- I’m currently studying Computer Sciences and Engineering from NIT Silchar. I am learning basic programming and data structures.
+ I’m currently studying Computer Sciences and Engineering from NIT Silchar. I am learning some basics of programming and some data structures.
  
  I’m interested in getting into the vast world of open source and start contributing. I’m looking to collaborate on any interesting projects that I can find and for which I have    adequate knowleadge to start contributing.
  
