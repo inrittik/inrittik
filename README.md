@@ -8,7 +8,7 @@
  
  - **Web Development(Front-End)**
      
-     - HTML, CSS, JavaScript, Bootstrap, Material-Ui, ReactJs
+     - HTML, CSS, JavaScript, Bootstrap, Material-Ui, ReactJs, Sass
   
  - **Machine Learning**
 
