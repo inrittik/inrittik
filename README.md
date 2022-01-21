@@ -2,13 +2,15 @@
  
  I’m currently pursuing my BTech in Computer Sciences and Engineering from National Institute of Technology Silchar. 
  
- I'm currently learning NodeJs(EJS & REST API) and NEXTJS
+ I'm currently learning NEXTJS & Typescript
  
  ## Technologies I can work with :
  
- - **Web Development(Front-End)**
+ - **Web Development**
      
      - HTML, CSS, JavaScript, Bootstrap, Material-Ui, ReactJs, Sass
+     - Nodejs, MongoDB(Atlas)
+     - EJS
   
  - **Machine Learning**
 
