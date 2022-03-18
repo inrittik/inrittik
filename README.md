@@ -12,8 +12,6 @@
      - Nodejs, MongoDB(Atlas)
      - EJS
   
- - **Machine Learning**
-
 
 ## Languages I'm comfortable with :
 
