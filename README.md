@@ -35,7 +35,7 @@
 >[![Nrittik's GitHub stats](https://github-readme-stats.vercel.app/api?username=inrittik&hide=contribs,issues&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inrittik&langs_count=9&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inrittik&langs_count=10&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 _Naah! not impressive. Coz I'm still starting out._
