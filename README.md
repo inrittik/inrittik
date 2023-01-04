@@ -5,10 +5,10 @@
  👉&emsp;BTech Student at National Institute of Technology Silchar
  <br />
  👉&emsp;Full-Stack Web Developer
+  <br />
+ 👉&emsp;Currently learning Go
  
  <br />
- 
- <img src="https://activity-graph.herokuapp.com/graph?username=inrittik&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=My%20Commit%20Graph%20&hide_border=true" alt="My commit graph didn't load :( properly"/>
  
  ## Technologies I can work with :
  
